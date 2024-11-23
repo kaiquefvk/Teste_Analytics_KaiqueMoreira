@@ -24,6 +24,7 @@
 - Rode o código normalmente, célula por célula ou utilize o atalho "Ctrl+F9".
 - Utilize a Seed para conseguir analisar os dados de maneira coesa. A Seed garantirá que os dados não mudem cada vez que o código for rodado.
 - A manipulação das vendas é realizada dentro dos Loop com o FOR, caso deseje alterar as quantidades de vendas ou o preço mínimo e máximo.
+- ⚠️ A alteração da Seed ou de qualquer valor dentro da função, poderá ocasionar em mudanças nos dados. Dessa forma, a análise original dos dados não estará correta.
 
 ### Como Utilizar | Parte SQL
 - Baixe o arquivo csv a partir da linha de código na Parte Python.
